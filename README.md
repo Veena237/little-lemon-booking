@@ -1,4 +1,4 @@
-<img width="168" height="148" alt="image" src="https://github.com/user-attachments/assets/90f9386e-67e9-450c-9247-ae333d9f976e" />
+<img width="16" height="14" alt="image" src="https://github.com/user-attachments/assets/90f9386e-67e9-450c-9247-ae333d9f976e" />
 # Little Lemon Booking App
 
 This is a restaurant table booking application developed as part of the Meta Front-End Developer Capstone project.
